@@ -139,7 +139,7 @@
   <bpmndi:BPMNDiagram>
     <bpmndi:BPMNPlane bpmnElement="persons">
       <bpmndi:BPMNShape id="shape__4BCACDD9-A153-4D37-8349-898B818045EF" bpmnElement="_4BCACDD9-A153-4D37-8349-898B818045EF">
-        <dc:Bounds height="56" width="56" x="100" y="100"/>
+        <dc:Bounds height="56" width="56" x="325" y="100"/>
       </bpmndi:BPMNShape>
       <bpmndi:BPMNShape id="shape__F774226C-0EB5-4832-821C-4446596FF83E" bpmnElement="_F774226C-0EB5-4832-821C-4446596FF83E">
         <dc:Bounds height="102" width="154" x="227" y="252"/>
