@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <dmn:definitions xmlns:dmn="http://www.omg.org/spec/DMN/20180521/MODEL/" xmlns="https://kiegroup.org/dmn/_0DCAC99B-0CAF-44E8-923E-997CFA53D3BC" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:kie="http://www.drools.org/kie/dmn/1.2" xmlns:feel="http://www.omg.org/spec/DMN/20180521/FEEL/" xmlns:dmndi="http://www.omg.org/spec/DMN/20180521/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" id="_037DE113-066A-481A-8F9D-57018C56495C" name="air-conditioning-data-types" expressionLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" typeLanguage="http://www.omg.org/spec/DMN/20180521/FEEL/" namespace="https://kiegroup.org/dmn/_0DCAC99B-0CAF-44E8-923E-997CFA53D3BC">
   <dmn:extensionElements/>
   <dmn:itemDefinition id="_2498147F-48CB-425B-BD91-1AFD9013AFDE" name="tTemperature" isCollection="false">
@@ -48,7 +49,7 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="370" y="180" width="100" height="50"/>
+        <dc:Bounds x="194" y="206" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
     </dmndi:DMNDiagram>
