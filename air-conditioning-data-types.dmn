@@ -29,6 +29,9 @@
     <dmn:extensionElements/>
     <dmn:variable id="_15E009B4-750D-4C59-8650-B93D9D5995E3" name="InputData-2"/>
   </dmn:inputData>
+  <dmn:textAnnotation id="_A606D215-B225-4DCE-8791-CE4919C3558A" textFormat="text/plain">
+    <dmn:text>Test 123</dmn:text>
+  </dmn:textAnnotation>
   <dmndi:DMNDI>
     <dmndi:DMNDiagram id="_AB031603-9EF5-4D6D-B81F-F6775B537782" name="DRG">
       <di:extension>
@@ -50,6 +53,15 @@
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
         <dc:Bounds x="194" y="206" width="100" height="50"/>
+        <dmndi:DMNLabel/>
+      </dmndi:DMNShape>
+      <dmndi:DMNShape id="dmnshape-drg-_A606D215-B225-4DCE-8791-CE4919C3558A" dmnElementRef="_A606D215-B225-4DCE-8791-CE4919C3558A" isCollapsed="false">
+        <dmndi:DMNStyle>
+          <dmndi:FillColor red="255" green="255" blue="255"/>
+          <dmndi:StrokeColor red="0" green="0" blue="0"/>
+          <dmndi:FontColor red="0" green="0" blue="0"/>
+        </dmndi:DMNStyle>
+        <dc:Bounds x="578" y="192" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
     </dmndi:DMNDiagram>
